@@ -1,0 +1,36 @@
+
+ 
+记录时间：2016-01-03 23:12:07,834 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：TransferCarPlatform.Form1 property: [(null)] - 
+错误描述：ErrorLog
+ 
+System.Data.OleDb.OleDbException (0x80040E10): 至少一个参数没有被指定值。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 DBUtility.AccessHelper.GetDataSet(String sql) 位置 E:\易建科技\8外事办\框架\三层框架\WinFormDeveloper\WinFormDeveloper\DBUtility\AccessHelper.cs:行号 32
+   在 DAL.DriverListDAL.FindAll_infos(String sql) 位置 E:\易建科技\8外事办\框架\三层框架\WinFormDeveloper\WinFormDeveloper\DAL\DriverListDAL.cs:行号 25
+   在 BLL.DriverListBLL.FindAll_infos(String sql) 位置 E:\易建科技\8外事办\框架\三层框架\WinFormDeveloper\WinFormDeveloper\BLL\DriverListBLL.cs:行号 20
+   在 TransferCarPlatform.Form1.Form1_Load(Object sender, EventArgs e) 位置 E:\易建科技\8外事办\框架\三层框架\WinFormDeveloper\WinFormDeveloper\TransferCarPlatform\Form1.cs:行号 81
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)

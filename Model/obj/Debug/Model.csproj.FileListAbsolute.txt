@@ -1,0 +1,14 @@
+E:\CSharpProject\WinFormProjects\WinFormDeveloper\Model\bin\Debug\Model.dll
+E:\CSharpProject\WinFormProjects\WinFormDeveloper\Model\bin\Debug\Model.pdb
+E:\CSharpProject\WinFormProjects\WinFormDeveloper\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\CSharpProject\WinFormProjects\WinFormDeveloper\Model\obj\Debug\Model.dll
+E:\CSharpProject\WinFormProjects\WinFormDeveloper\Model\obj\Debug\Model.pdb
+E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Model\bin\Debug\Model.dll
+E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Model\bin\Debug\Model.pdb
+E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Model\obj\Debug\Model.dll
+E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Model\obj\Debug\Model.pdb
+E:\易建科技\8外事办\框架\三层框架\WinFormDeveloper\WinFormDeveloper\Model\bin\Debug\Model.dll
+E:\易建科技\8外事办\框架\三层框架\WinFormDeveloper\WinFormDeveloper\Model\bin\Debug\Model.pdb
+E:\易建科技\8外事办\框架\三层框架\WinFormDeveloper\WinFormDeveloper\Model\obj\Debug\Model.dll
+E:\易建科技\8外事办\框架\三层框架\WinFormDeveloper\WinFormDeveloper\Model\obj\Debug\Model.pdb
+E:\易建科技\8外事办\框架\三层框架\WinFormDeveloper\WinFormDeveloper\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache

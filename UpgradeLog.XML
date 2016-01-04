@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WinFormDeveloper">
+</Property><Property Name="解决方案文件" Value="E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\WinFormDeveloper.sln">
+</Property><Property Name="用户选项文件" Value="E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\WinFormDeveloper.suo">
+</Property><Property Name="Date" Value="2015年12月22日">
+</Property><Property Name="Time" Value="14:18">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WinFormDeveloper.sln" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\WinFormDeveloper.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WinFormDeveloper.suo" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\WinFormDeveloper.suo">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="项目文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\DAL\DAL.csproj">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\infosDAL.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\DAL\infosDAL.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\DAL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DAL" Source="DAL\DAL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="项目文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\DBUtility\DBUtility.csproj">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\CommandInfo.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\DBUtility\CommandInfo.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\Common.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\DBUtility\Common.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DbHelperSQL.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\DBUtility\DbHelperSQL.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\DBUtility\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\PubConstant.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\DBUtility\PubConstant.cs">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="项目文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\BLL\BLL.csproj">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\infosBLL.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\BLL\infosBLL.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\BLL\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="BLL" Source="BLL\BLL.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="项目文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\Model\Model.csproj">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\infos.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\Model\infos.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\Model\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="Model" Source="Model\Model.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WindowsFormCase" Source="WindowsFormCase\WindowsFormCase.csproj" Description="项目文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\WindowsFormCase\WindowsFormCase.csproj">
+</Event><Event ErrorLevel="0" Project="WindowsFormCase" Source="WindowsFormCase\DBConfig.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\WindowsFormCase\DBConfig.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormCase" Source="WindowsFormCase\DBConfig.Designer.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\WindowsFormCase\DBConfig.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormCase" Source="WindowsFormCase\Form1.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\WindowsFormCase\Form1.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormCase" Source="WindowsFormCase\Form1.Designer.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\WindowsFormCase\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormCase" Source="WindowsFormCase\Program.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\WindowsFormCase\Program.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormCase" Source="WindowsFormCase\Properties\AssemblyInfo.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\WindowsFormCase\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormCase" Source="WindowsFormCase\Properties\Resources.Designer.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\WindowsFormCase\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormCase" Source="WindowsFormCase\Properties\Settings.Designer.cs" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\WindowsFormCase\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WindowsFormCase" Source="WindowsFormCase\Properties\Settings.settings" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\WindowsFormCase\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WindowsFormCase" Source="WindowsFormCase\DBConfig.resx" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\WindowsFormCase\DBConfig.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFormCase" Source="WindowsFormCase\Form1.resx" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\WindowsFormCase\Form1.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFormCase" Source="WindowsFormCase\Properties\Resources.resx" Description="文件已成功备份为 E:\易建科技\8外事办\daim\三层框架\WinFormDeveloper\WinFormDeveloper\Backup\WindowsFormCase\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WindowsFormCase" Source="WindowsFormCase\WindowsFormCase.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="WindowsFormCase" Source="WindowsFormCase\WindowsFormCase.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WinFormDeveloper.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="WinFormDeveloper.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DAL" Source="DAL\DAL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="DBUtility" Source="DBUtility\DBUtility.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="BLL" Source="BLL\BLL.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="Model" Source="Model\Model.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event><Event ErrorLevel="0" Project="WindowsFormCase" Source="WindowsFormCase\WindowsFormCase.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

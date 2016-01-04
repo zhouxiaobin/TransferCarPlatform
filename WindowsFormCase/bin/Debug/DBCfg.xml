@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DBConfigure>
+  <Database>
+    <name>one</name>
+    <ip>127.0.0.1</ip>
+    <DBName>￟￷ￌ￷￯￶?@</DBName>
+    <uid>&#x1;￯</uid>
+    <pwd>￵&#xFFFE;￫￶￺￯￱￹￱￸￯￷￶</pwd>
+  </Database>
+  <Database>
+    <name>two</name>
+    <ip>127.0.0.1</ip>
+    <DBName>￡￱￸￵￵￴ￓ￭&#x2;</DBName>
+    <uid>&#x1;￯</uid>
+    <pwd>￵&#xFFFE;￫￶￺￯￱￹￱￸￯￷￶</pwd>
+  </Database>
+</DBConfigure>

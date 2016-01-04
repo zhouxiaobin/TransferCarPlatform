@@ -1,0 +1,81 @@
+
+ 
+记录时间：2016-01-04 08:39:30,425 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：TransferCarPlatform.Form1 property: [(null)] - 
+错误描述：ErrorLog
+ 
+System.Data.OleDb.OleDbException (0x80040E10): 至少一个参数没有被指定值。
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextErrorHandling(OleDbHResult hr)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandTextForSingleResult(tagDBPARAMS dbParams, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommandText(Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteCommand(CommandBehavior behavior, Object& executeResult)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReaderInternal(CommandBehavior behavior, String method)
+   在 System.Data.OleDb.OleDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.OleDb.OleDbCommand.System.Data.IDbCommand.ExecuteReader(CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   在 System.Data.Common.DbDataAdapter.Fill(DataSet dataSet, String srcTable)
+   在 DBUtility.AccessHelper.GetDataSet(String sql) 位置 E:\易建科技\8外事办\框架\三层框架\WinFormDeveloper\WinFormDeveloper\DBUtility\AccessHelper.cs:行号 32
+   在 DAL.DriverListDAL.FindAll_infos(String sql) 位置 E:\易建科技\8外事办\框架\三层框架\WinFormDeveloper\WinFormDeveloper\DAL\DriverListDAL.cs:行号 25
+   在 BLL.DriverListBLL.FindAll_infos(String sql) 位置 E:\易建科技\8外事办\框架\三层框架\WinFormDeveloper\WinFormDeveloper\BLL\DriverListBLL.cs:行号 20
+   在 TransferCarPlatform.Form1.Form1_Load(Object sender, EventArgs e) 位置 E:\易建科技\8外事办\框架\三层框架\WinFormDeveloper\WinFormDeveloper\TransferCarPlatform\Form1.cs:行号 81
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+ 
+记录时间：2016-01-04 08:53:22,748 
+线程ID:[1] 
+日志级别：  ERROR 
+出错类：TransferCarPlatform.Form1 property: [(null)] - 
+错误描述：ErrorLog
+ 
+System.InvalidCastException: 无法将类型为“System.DBNull”的对象强制转换为类型“System.Byte[]”。
+   在 DBUtility.PictureHelper.ExportImage(Int32 Id, String tableName, String columName) 位置 E:\易建科技\8外事办\框架\三层框架\WinFormDeveloper\WinFormDeveloper\DBUtility\PictureHelper.cs:行号 117
+   在 TransferCarPlatform.EditDriverForm.EditDriverForm_Load(Object sender, EventArgs e) 位置 E:\易建科技\8外事办\框架\三层框架\WinFormDeveloper\WinFormDeveloper\TransferCarPlatform\EditDriverForm.cs:行号 168
+   在 System.Windows.Forms.Form.OnLoad(EventArgs e)
+   在 System.Windows.Forms.Form.OnCreateControl()
+   在 System.Windows.Forms.Control.CreateControl(Boolean fIgnoreVisible)
+   在 System.Windows.Forms.Control.CreateControl()
+   在 System.Windows.Forms.Control.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.ScrollableControl.WndProc(Message& m)
+   在 System.Windows.Forms.ContainerControl.WndProc(Message& m)
+   在 System.Windows.Forms.Form.WmShowWindow(Message& m)
+   在 System.Windows.Forms.Form.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
+
+ 
+记录时间：2016-01-04 22:29:46,406 
+线程ID:[9] 
+日志级别：  ERROR 
+出错类：TransferCarPlatform.Form1 property: [(null)] - 
+错误描述：ErrorLog
+ 
+System.NullReferenceException: 未将对象引用设置到对象的实例。
+   在 TransferCarPlatform.SummaryForm.dgvSummary_CellContentClick(Object sender, DataGridViewCellEventArgs e) 位置 E:\易建科技\8外事办\框架\三层框架\WinFormDeveloper\WinFormDeveloper\TransferCarPlatform\SummaryForm.cs:行号 78
+   在 System.Windows.Forms.DataGridView.OnCellContentClick(DataGridViewCellEventArgs e)
+   在 System.Windows.Forms.DataGridView.OnCommonCellContentClick(Int32 columnIndex, Int32 rowIndex, Boolean doubleClick)
+   在 System.Windows.Forms.DataGridViewCell.OnMouseUpInternal(DataGridViewCellMouseEventArgs e)
+   在 System.Windows.Forms.DataGridView.OnCellMouseUp(DataGridViewCellMouseEventArgs e)
+   在 System.Windows.Forms.DataGridView.OnMouseUp(MouseEventArgs e)
+   在 System.Windows.Forms.Control.WmMouseUp(Message& m, MouseButtons button, Int32 clicks)
+   在 System.Windows.Forms.Control.WndProc(Message& m)
+   在 System.Windows.Forms.DataGridView.WndProc(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.OnMessage(Message& m)
+   在 System.Windows.Forms.Control.ControlNativeWindow.WndProc(Message& m)
+   在 System.Windows.Forms.NativeWindow.Callback(IntPtr hWnd, Int32 msg, IntPtr wparam, IntPtr lparam)
